@@ -1,5 +1,5 @@
 # Gear
-> Quick gear calculator for engineering. If you are trying to build a gearbox, this scrit can be used for doing all the calculations based on values (Number of teeth, Module and The sum of rays)
+> Quick gear calculator for engineering. If you are trying to build a gearbox, this script can be used for doing all the calculations based on values (Number of teeth, Module and The sum of rays)
 
 ## Features:
 * Calculate the raius and diameter of a gear based on the module value.
@@ -49,7 +49,7 @@ Gear2: N of teeth: 32.0 Diameter: 64.0 Radius: 32.0
 
 ## Release History
 * 1.0
-    * Script done
+    * Script and README done
 
 ## Me
 
